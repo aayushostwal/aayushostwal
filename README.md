@@ -14,16 +14,6 @@ Plugin-first AI terminal workspace for Codex and Claude Code with planning, CI/C
 ## Featured Repositories
 - [nexus](https://github.com/aayushostwal/nexus) - AI terminal workspace with plugin-first architecture
 - [ai-tutorials](https://github.com/aayushostwal/ai-tutorials) - Notebook-based AI learning and experiments
-- [aayushostwal.github.io](https://github.com/aayushostwal/aayushostwal.github.io) - Personal website
-- [Hotel_Chat_Bot](https://github.com/aayushostwal/Hotel_Chat_Bot) - RASA-based chatbot project
-
-## GitHub Snapshot
-- Public repositories: 21
-- Public gists: 8
-- Followers: 4
 
 ## Tech I Work With
 `Python` `JavaScript/TypeScript` `Jupyter` `AWS` `GitHub Actions` `MCP tooling` `AI agents`
-
-## Connect
-- GitHub: [@aayushostwal](https://github.com/aayushostwal)
